@@ -1,4 +1,6 @@
 
+homework01.pdf is the homework text.
+
 There are THREE files for my Solutions to HomeWork1:
  
 - SVD.ipynb is the solution for ex1
