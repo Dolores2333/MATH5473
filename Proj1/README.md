@@ -12,6 +12,6 @@ This floder contains:
 * 💕 [t-SNE Exploration](https://github.com/Dolores2333/MATH5473/blob/main/Proj1/T-sne.ipynb)
 * 🔥 [Intermediate Variables](https://github.com/Dolores2333/MATH5473/tree/main/Proj1/OutcomeData)
 
-### Contribution ⭐
+### ⭐ Contribution 
 * 🌸 ZHA Mengyue mzha@connect.ust.hk
 * 🌸 HUANG Chutian chuangat@connect.ust.hk
